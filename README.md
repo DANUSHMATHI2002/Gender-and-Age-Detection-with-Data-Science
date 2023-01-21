@@ -13,3 +13,14 @@ While training datasets for generic object recognition tasks can frequently incl
 
 ### ✅ Project Stages
 
+![image](https://user-images.githubusercontent.com/84402100/213842034-bec998c6-a574-4e4e-a1b9-0b4de20d73f1.png)
+
+### ✅ Dependencies
+
+*OpenCV
+*Convolutional Neural Network 
+*ConvNet
+*TensorFlow
+*Caffe
+*PyTorch
+
