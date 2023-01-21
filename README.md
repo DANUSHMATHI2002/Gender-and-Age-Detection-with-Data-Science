@@ -7,6 +7,10 @@ Our objective is to develop a programme that can identify a person's gender and 
 
 We'll utilize pre-trained models for age prediction because our major focus is on how to create the age predictor using OpenCV with existing models.
 
+### ✅ Model Architecture
+
+Using Python Deep Learning and the Adience dataset, create a gender and age detector that can roughly predict the gender and age of the person (face) in a photo. The projected gender is either "Male" or "Female," and the expected age is either within one of the following age ranges: 0 to 2, 4 to 6, 8 to 12, 15 to 20, 25 to 32, 38 to 43, 48 to 53, or 60 to 100. (8 nodes in the final softmax layer).
+
 ### ✅ Description 
 
 While training datasets for generic object recognition tasks can frequently include hundreds of thousands or even millions of photos, those containing age and/or gender labels are typically much smaller, numbering in the thousands or, at most, tens of thousands. The issue is that in order to tag these photographs, we must have access to the subjects' private information. We would specifically need to know their date of birth and gender, as this information is rarely made public. We would specifically need to know their date of birth and gender, as this information is rarely made public. As a result, we must accept the nature of the issue we are trying to solve and modify network designs and computational strategies accordingly.
@@ -23,4 +27,8 @@ While training datasets for generic object recognition tasks can frequently incl
 * TensorFlow
 * Caffe
 * PyTorch
+
+### ✅ Project Outcome
+
+In this Python experiment, we used CNN to identify the gender and age of a face using just one image.
 
