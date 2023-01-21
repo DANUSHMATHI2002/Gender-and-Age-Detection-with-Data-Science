@@ -18,7 +18,7 @@ While training datasets for generic object recognition tasks can frequently incl
 ### ✅ Dependencies
 
 ***
-***OpenCV***
+***. *OpenCV***
 ***Convolutional Neural Network***
 ***ConvNet***
 ***TensorFlow***
