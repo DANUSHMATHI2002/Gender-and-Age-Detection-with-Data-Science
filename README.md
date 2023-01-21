@@ -17,10 +17,10 @@ While training datasets for generic object recognition tasks can frequently incl
 
 ### ✅ Dependencies
 
-****.*OpenCV***
-***Convolutional Neural Network***
-***ConvNet***
-***TensorFlow***
-***Caffe***
-***PyTorch***
+* OpenCV
+* Convolutional Neural Network
+* ConvNet
+* TensorFlow
+* Caffe
+* PyTorch
 
